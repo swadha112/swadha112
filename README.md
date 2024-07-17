@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swadha112
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently in SY B.tech Comps
+- 🌱 I’m currently in TY B.tech Comps
 
 
 <!---
